@@ -1,0 +1,13 @@
+package hu.droidium.coins;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class MainActivity extends Activity {
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		// Check if game is running
+		
+	}
+}

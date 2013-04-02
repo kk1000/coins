@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Coins</string>
+
+    <string name="amountTargetLabel">Ennyit érjen:</string>
+
+    <string name="targetCountLabel">Ennyi érmét használj:</string>
+
+    <string name="checkResult">Végeztem!</string>
+
+    <string name="zero">0</string>
+
+</resources>
