@@ -10,4 +10,12 @@
 
     <string name="zero">0</string>
 
+    <string name="easy">Könnyű</string>
+
+    <string name="medium">Közepes</string>
+
+    <string name="hard">Nehéz</string>
+
+    <string name="newGame">Új játék</string>
+
 </resources>
