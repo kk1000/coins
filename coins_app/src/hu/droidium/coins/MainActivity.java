@@ -18,7 +18,7 @@ public class MainActivity extends Activity implements OnClickListener {
 
 	private static final Random random = new Random();
 
-	private static final int EASY_MIN_TARGET = 4;
+	private static final int EASY_MIN_TARGET = 5;
 	private static final int EASY_MAX_TARGET = 13;
 	private static final int EASY_MIN_COIN = 2;
 	private static final int EASY_MAX_COIN = 5;
